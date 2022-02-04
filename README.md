@@ -36,7 +36,6 @@
 
 ### JAVA
 * [知乎-JAVA书籍推荐](https://zhuanlan.zhihu.com/p/343905988)
-* [B站-狂神说JAVA](https://www.bilibili.com/video/BV12J41137hu)
 
 ### Go
 * [Golang官网](https://golang.google.cn/)
