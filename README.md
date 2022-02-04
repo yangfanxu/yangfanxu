@@ -6,7 +6,7 @@
 
 # 概述
 
-本文档用于记录工作与生活笔记。
+[文档](https://github.com/yangfanxu/yangfanxu)用于记录工作与生活笔记。
 
 <br>
 
