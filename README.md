@@ -42,7 +42,7 @@
 * [Golang官网](https://golang.google.cn/)
 * [地鼠文档](https://www.topgoer.cn/)
 * [知乎-Go学习曲线1](https://www.zhihu.com/question/504934465/answer/2264386377)
-* [知乎-Go学习曲线2[]()](https://www.zhihu.com/question/431008947/answer/2291230586)
+* [知乎-Go学习曲线2](https://www.zhihu.com/question/431008947/answer/2291230586)
 * [Go语言中文网](https://studygolang.com/)
 
 ### 言论
