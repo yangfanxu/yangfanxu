@@ -127,9 +127,14 @@
 <br>
 
 ## JAVA
+* [JDK 17 Documentation](https://docs.oracle.com/en/java/javase/17/index.html)
 * [知乎-JAVA书籍推荐](https://zhuanlan.zhihu.com/p/343905988)
 * [Java Platform Standard Edition 8 Documentation](https://docs.oracle.com/javase/8/docs/)
 * [JavaRanch](https://javaranch.com/)
+* [有哪些 Java 源代码看了后让你收获很多，代码思维和能力有较大的提升？ - Asens的回答 - 知乎](https://www.zhihu.com/question/61539640/answer/189166716)
+* [有哪些 Java 源代码看了后让你收获很多，代码思维和能力有较大的提升？ - HelloKaton的回答 - 知乎](https://www.zhihu.com/question/61539640/answer/188718480)
+* [Golang和Java到底怎么选? - Liam.wang的回答 - 知乎](https://www.zhihu.com/question/463826127/answer/1946111135)
+* [为什么 Java 要求越来越高？ - 程序员小猴的回答 - 知乎](https://www.zhihu.com/question/414988138/answer/2372260208)
 
 <br>
 
@@ -235,6 +240,9 @@
 <br>
 
 ## 其他
+* [练习冥想真的可以提高专注力么？ - 中华礼文化的回答 - 知乎](https://www.zhihu.com/question/37084496/answer/286141488)
+* [学习/工作时总胡思乱想，如何提升专注力？ - 高冷冷的文章 - 知乎](https://zhuanlan.zhihu.com/p/37278672)
+* [如何成长为一个高情商的人？ - 千锤百炼的K的回答 - 知乎](https://www.zhihu.com/question/319162653/answer/2232433019)
 * [为什么很多人辛劳一生，仍然生活在社会底层？ - 奇迹年的回答 - 知乎](https://www.zhihu.com/question/39997502/answer/2292764568)
 * [如何从底层杀出？ - 奇迹年的回答 - 知乎](https://www.zhihu.com/question/487990120/answer/2295005139)
 * [5W理论](https://wiki.mbalib.com/wiki/5W%E7%90%86%E8%AE%BA)
