@@ -8,8 +8,6 @@
 
 [文档](https://github.com/yangfanxu/yangfanxu/blob/main/README.md)用于记录工作与生活笔记。
 
-<br>
-
 # 工程
 
 ## 门户
@@ -55,8 +53,6 @@
 * [产品和运营的区别是什么？ - 刘大大的回答 - 知乎](https://www.zhihu.com/question/27685996/answer/704111114)
 * [产品和运营的区别是什么？ - 知乎课堂的回答 - 知乎](https://www.zhihu.com/question/27685996/answer/1230894741)
 
-<br>
-
 ## 软件工程
 * [面向对象编程的弊端是什么？ - invalid s的回答 - 知乎](https://www.zhihu.com/question/20275578/answer/26577791])
 * [visual studio + git + github/gitlab实现工程师笔记](https://www.zhihu.com/question/283455691/answer/1457959083)
@@ -65,8 +61,6 @@
 * [一文读懂什么是SLI、SLO、SLA - 知乎用户d64Chv的文章 - 知乎](https://zhuanlan.zhihu.com/p/358149438)
 * [SLA正常运行时间计算器](https://www.site24x7.cn/tools/sla-uptime.html)
 * [可用性SLA还不懂？看完这个故事就懂了 - 阿里云云栖号的文章 - 知乎](https://zhuanlan.zhihu.com/p/147231182)
-
-<br>
 
 ## 数据
 * [范式 - 百度百科](https://baike.baidu.com/item/%E8%8C%83%E5%BC%8F/8438203?fr=aladdin)
@@ -81,8 +75,6 @@
 * [The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
 * [可否完全使用ElasticSearch代替数据库存储？ - 终端研发部的回答 - 知乎](https://www.zhihu.com/question/45510463/answer/2146695119)
 
-<br>
-
 ## 编译
 * [gcc编译工具生成动态库和静态库之一----介绍](https://www.cnblogs.com/fnlingnzb-learner/p/8059251.html)
 * [Linux基础——gcc编译、静态库与动态库（共享库）](https://blog.csdn.net/daidaihema/article/details/80902012)
@@ -92,8 +84,6 @@
 * [运行时动态库：not found 及介绍-linux的-Wl,-rpath命令](https://www.cnblogs.com/homejim/p/8004883.html)
 * [-L、-rpath和-rpath-link的区别](https://www.cnblogs.com/candl/p/7358384.html)
 * [-L -Wl,-rpath-link -Wl,-rpath区别精讲](https://www.cnblogs.com/tianknight/p/10648021.html)
-
-<br>
 
 ## 测试
 ### 单元测试
@@ -110,21 +100,15 @@
 * 单元测试覆盖率评价参考Google标准：60% - 可接受；75% - 优秀； 90% - 模范
 * 覆盖率是工程质量的必要非充分条件
 
-<br>
-
 ## C语言
 * [知乎-C语言学习曲线](https://www.zhihu.com/search?type=content&q=C%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E6%9B%B2%E7%BA%BF)
 * [C/C++标准](https://www.amobbs.com/thread-5746575-1-1.html)
 * attribute constructor
 
-<br>
-
 ## C++
 * [学 C++ 是种怎样的体验？ - zpan的回答 - 知乎](https://www.zhihu.com/question/62158323/answer/196189709)
 * [C++11-20新增特性](https://www.cnblogs.com/yrm1160029237/p/14246166.html)
 * [不同版本GCC对C++特性支持情况](https://blog.csdn.net/red98/article/details/117767913)
-
-<br>
 
 ## JAVA
 * [JDK 17 Documentation](https://docs.oracle.com/en/java/javase/17/index.html)
@@ -136,8 +120,6 @@
 * [Golang和Java到底怎么选? - Liam.wang的回答 - 知乎](https://www.zhihu.com/question/463826127/answer/1946111135)
 * [为什么 Java 要求越来越高？ - 程序员小猴的回答 - 知乎](https://www.zhihu.com/question/414988138/answer/2372260208)
 
-<br>
-
 ## Go
 * [Golang官网](https://golang.google.cn/)
 * [地鼠文档](https://www.topgoer.cn/)
@@ -145,8 +127,6 @@
 * [知乎-Go学习曲线2](https://www.zhihu.com/question/431008947/answer/2291230586)
 * [Go语言中文网](https://studygolang.com/)
 * [Go 包管理详解](https://blog.csdn.net/weixin_43700106/article/details/118279983)
-
-<br>
 
 ## Python
 * [Python官网](https://www.python.org/)
@@ -160,8 +140,6 @@
 * from 文件（无后缀） import *可以实现同补录引入
 * pip list：pycodestyle (2.8.0) pyflakes (2.4.0)，这两个命令可以直接使用
 * Wheel与Coverage
-
-<br>
 
 ## 网络工程
 * [浅谈中国电信出口网络的链路情况（什么是 ChinaNet,CN2,GT,GIA）](https://www.oldking.net/751.html)
@@ -195,8 +173,6 @@
 * [BGP路由协议详解(完整篇)](https://www.cnblogs.com/sddai/p/5988094.html)
 * [BIRD - Internet Route Daemon](https://bird.network.cz/)
 
-<br>
-
 ## 操作系统
 * [linux多线程编程——读者优先、写者优先问题](https://www.cnblogs.com/erbing/p/5626768.html)
 * [Linux负载理解](https://blog.csdn.net/weixin_39845407/article/details/86622671)
@@ -214,13 +190,9 @@
 * [mac iterm2 sz rz 失效问题解决](https://blog.csdn.net/qq_36752632/article/details/106529022)
 * [【第二期】如何通过网络遥测（Network Telemetry）技术实现精细化网络运维？](https://www.ruijie.com.cn/fa/xw-hlw/61072/)
 
-<br>
-
 ## 机器学习
 * [LightGBM’s documentation](https://lightgbm.readthedocs.io/en/latest/#)
 * [深入理解LightGBM - Microstrong的文章 - 知乎](https://zhuanlan.zhihu.com/p/99069186])
-
-<br>
 
 ## 命令
 * nmap -p port ip 查看服务器端口是否开放
@@ -236,8 +208,6 @@
 * 内存 - free，-m以M为单位显示
 * 磁盘 - iotop -oP，pidstat -d 1; sar -b 1 10
 * cron - /var/spool/cron/中可查看任务配置，/var/spool/mail/可查看任务执行日志
-
-<br>
 
 ## 其他
 * [如何成长为一个高情商的人？ - 千锤百炼的K的回答 - 知乎](https://www.zhihu.com/question/319162653/answer/2232433019)
@@ -261,37 +231,25 @@ https://www.zhihu.com/question/23374078/answer/69732605)
 * ORM：Object Relation Mapping
 * DAO：Data Access Object
 
-<br>
-
 # 人文
 
 ## 自然
 * [完美星球](https://www.bilibili.com/video/BV1gL4y1h7Y6?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click)(刘琮解说)
 * [七个世界一个星球](https://www.bilibili.com/video/BV1S44y1v7ps?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click)
 
-<br>
-
 ## 地理
 * [魅力塞尔维亚](https://www.bilibili.com/video/BV1oA411x7Km?from=search&seid=16363805797487311580&spm_id_from=333.337.0.0)(唐甜甜解说)
-
-<br>
 
 ## 动物
 * [火烈鸟的传说](https://www.bilibili.com/video/BV1nJ411E7wt?p=2)(唐甜甜解说)
 * [大猫传奇](https://www.bilibili.com/video/BV1js41147sR?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click)
 
-<br>
-
 ## 历史
 * [河西走廊](https://www.bilibili.com/video/BV19f4y157oq?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click)
-
-<br>
 
 ## 影视
 * 创世纪（香港）
 * 两小无拆（泰国）
-
-<br>
 
 ## 诗词
 > 满堂花醉三千客，一剑霜寒十四州  
@@ -327,8 +285,6 @@ https://www.zhihu.com/question/23374078/answer/69732605)
 自省与自知，自信而不自负。  
 内心充实，外在谦和，真诚温暖。
 
-<br>
-
 # 便签
 ## 质量保证
 > 流程保证  
@@ -350,8 +306,6 @@ QA资源
 指标展示  
 运维记录  
 问题反馈  
-
-<br>
 
 ## 词汇
 > 历史债务与新的挑战  
@@ -385,8 +339,6 @@ gentle 温和
 aggressive 激进   
 factor
 
-<br>
-
 ## 发音
 * [“提打挺松”，如何做好？](http://www.byzc.com/news/12891.html)
 * [播音入门学什么丨超详细图文口部操训练：提打挺松 - 刘玥教育的文章 - 知乎](https://zhuanlan.zhihu.com/p/360283725)
@@ -397,8 +349,6 @@ factor
 * [【气息篇】播音系师哥教你如何让“声音变得更加好听”](https://www.bilibili.com/video/BV1kE411D7WD?share_source=copy_web)
 * [气质养成｜5分钟 声音变温柔 直男无法抗拒 高级的撒娇感](https://www.bilibili.com/video/BV1LE411A7iZ?share_source=copy_web)
 * 《实用播音教程》
-
-<br>
 
 ## 其他
 > 针对不同业务场景制定可用性目标：无人车场景需要远超99.999%（年故障时间5分钟），云业务99.999%足够
@@ -413,8 +363,6 @@ proto文件省略key字段内容传输，client和server端都进行存储结构
 > 使用IP最后网段进行哈希，方便调试。
 
 > 系统设计时考虑依赖服务的可用性，以及其不可用时对系统的影响，考虑是否需要对依赖服务的监控、预警以及容灾。
-
-<br>
 
 ## 生活
 > 麦德好果仁雪花酥
