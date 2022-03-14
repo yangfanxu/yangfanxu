@@ -240,8 +240,6 @@
 <br>
 
 ## 其他
-* [练习冥想真的可以提高专注力么？ - 中华礼文化的回答 - 知乎](https://www.zhihu.com/question/37084496/answer/286141488)
-* [学习/工作时总胡思乱想，如何提升专注力？ - 高冷冷的文章 - 知乎](https://zhuanlan.zhihu.com/p/37278672)
 * [如何成长为一个高情商的人？ - 千锤百炼的K的回答 - 知乎](https://www.zhihu.com/question/319162653/answer/2232433019)
 * [为什么很多人辛劳一生，仍然生活在社会底层？ - 奇迹年的回答 - 知乎](https://www.zhihu.com/question/39997502/answer/2292764568)
 * [如何从底层杀出？ - 奇迹年的回答 - 知乎](https://www.zhihu.com/question/487990120/answer/2295005139)
@@ -251,6 +249,10 @@
 https://www.zhihu.com/question/23374078/answer/69732605)
 * [什么是DevOps？ - 小龙飞的回答 - 知乎](https://www.zhihu.com/question/58702398/answer/1755254160)
 * [范式（Paradigm）是什么？ - 吴冕的回答 - 知乎](https://www.zhihu.com/question/21629921/answer/120543387)
+* [腾讯六大事业群介绍（下） - Amiee的文章 - 知乎](https://zhuanlan.zhihu.com/p/164882387)
+* [亚洲最大的单体办公楼——腾讯北京总部 - 知乎](https://www.zhihu.com/zvideo/1448398963754373120)
+* [Satin莎庭 ▎商业空间：腾讯-北京新总部 - SATIN莎庭的文章 - 知乎](https://zhuanlan.zhihu.com/p/228201741])
+* [办公椅旋钮作用](https://zhidao.baidu.com/question/17792459.html)
 
 <br>
 
@@ -411,8 +413,6 @@ proto文件省略key字段内容传输，client和server端都进行存储结构
 > 使用IP最后网段进行哈希，方便调试。
 
 > 系统设计时考虑依赖服务的可用性，以及其不可用时对系统的影响，考虑是否需要对依赖服务的监控、预警以及容灾。
-
-> [腾讯六大事业群介绍（下） - Amiee的文章 - 知乎](https://zhuanlan.zhihu.com/p/164882387)
 
 <br>
 
