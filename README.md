@@ -63,6 +63,7 @@
 * [一文读懂什么是SLI、SLO、SLA - 知乎用户d64Chv的文章 - 知乎](https://zhuanlan.zhihu.com/p/358149438)
 * [SLA正常运行时间计算器](https://www.site24x7.cn/tools/sla-uptime.html)
 * [可用性SLA还不懂？看完这个故事就懂了 - 阿里云云栖号的文章 - 知乎](https://zhuanlan.zhihu.com/p/147231182)
+* [浅谈SSL/TLS工作原理 - 肖宏辉的文章 - 知乎](https://zhuanlan.zhihu.com/p/36981565)
 
 ## 数据
 * [范式 - 百度百科](https://baike.baidu.com/item/%E8%8C%83%E5%BC%8F/8438203?fr=aladdin)
