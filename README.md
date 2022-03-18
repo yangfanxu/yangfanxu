@@ -129,6 +129,7 @@
 * [知乎-Go学习曲线1](https://www.zhihu.com/question/504934465/answer/2264386377)
 * [知乎-Go学习曲线2](https://www.zhihu.com/question/431008947/answer/2291230586)
 * [Go语言中文网](https://studygolang.com/)
+* [Go 语言设计与实现](https://draveness.me/golang/)
 * [Go 包管理详解](https://blog.csdn.net/weixin_43700106/article/details/118279983)
 
 ## Python
