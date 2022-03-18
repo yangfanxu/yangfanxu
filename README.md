@@ -32,8 +32,7 @@
 * [BJSON工程工具合集](https://www.bejson.com/)
 * [吾道-PPT工具](https://www.woodo.cn/)
 * [Site24x7](https://www.site24x7.cn/)
-
-<br>
+* [Hugo中文文档](https://www.gohugo.org/)
 
 ## Markdown
 * [Markdown中文网](http://markdown.p2hp.com/index.html)
@@ -45,8 +44,6 @@
 
 ## Git
 * [Git官方](https://git-scm.com/)
-
-<br>
 
 ## 产品
 * [你的公司到底是技术驱动还是业务驱动？如何权衡？【转】 - 布鲁哥的文章 - 知乎](https://zhuanlan.zhihu.com/p/24471184)
