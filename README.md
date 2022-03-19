@@ -351,6 +351,7 @@ factor
 * [播音系师哥教你如何让“声音变得更加好听”](https://www.bilibili.com/video/BV1fJ411M7b6?share_source=copy_web)
 * [【气息篇】播音系师哥教你如何让“声音变得更加好听”](https://www.bilibili.com/video/BV1kE411D7WD?share_source=copy_web)
 * [气质养成｜5分钟 声音变温柔 直男无法抗拒 高级的撒娇感](https://www.bilibili.com/video/BV1LE411A7iZ?share_source=copy_web)
+* [播音主持专业的专业课程有哪些？ - 大胖变大壮的回答 - 知乎](https://www.zhihu.com/question/21930824/answer/73511687)
 * 《实用播音教程》
 
 ## 其他
