@@ -56,6 +56,7 @@
 * [面向对象编程的弊端是什么？ - invalid s的回答 - 知乎](https://www.zhihu.com/question/20275578/answer/26577791])
 * [visual studio + git + github/gitlab实现工程师笔记](https://www.zhihu.com/question/283455691/answer/1457959083)
 * [中文排版指北](https://github.com/mzlogin/chinese-copywriting-guidelines/blob/Simplified/README.md#%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%88%E6%8E%92%E7%89%88%E6%8C%87%E5%8C%97)
+* [计算机科学与技术都有哪些课程？ - 吃星星的小芒果的回答 - 知乎](https://www.zhihu.com/question/300215881/answer/1097632589)
 ### 服务质量
 * [一文读懂什么是SLI、SLO、SLA - 知乎用户d64Chv的文章 - 知乎](https://zhuanlan.zhihu.com/p/358149438)
 * [SLA正常运行时间计算器](https://www.site24x7.cn/tools/sla-uptime.html)
