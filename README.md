@@ -358,6 +358,7 @@ factor
 * [气质养成｜5分钟 声音变温柔 直男无法抗拒 高级的撒娇感](https://www.bilibili.com/video/BV1LE411A7iZ?share_source=copy_web)
 * [播音主持专业的专业课程有哪些？ - 大胖变大壮的回答 - 知乎](https://www.zhihu.com/question/21930824/answer/73511687)
 * 《实用播音教程》
+* [如何评价歌手任然？ - 无中生有的回答 - 知乎](https://www.zhihu.com/question/48375251/answer/149184465)
 
 ## 其他
 > 针对不同业务场景制定可用性目标：无人车场景需要远超99.999%（年故障时间5分钟），云业务99.999%足够
