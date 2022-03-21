@@ -185,6 +185,13 @@
 * [BGP路由协议详解(完整篇)](https://www.cnblogs.com/sddai/p/5988094.html)
 * [BIRD - Internet Route Daemon](https://bird.network.cz/)
 
+## 通信工程
+* [数字信号和模拟信号的区别是什么？ - 小泽诶的回答 - 知乎](https://www.zhihu.com/question/373000106/answer/1078755173)
+* [调制解调 - 百度百科](https://baike.baidu.com/item/%E8%B0%83%E5%88%B6%E8%A7%A3%E8%B0%83/472156?fr=aladdin)
+* [振幅、周期、频率与相位](https://blog.csdn.net/haodawei123/article/details/87914820)
+* [什么是波分（波分复用器）？ - YunGui的文章 - 知乎](https://zhuanlan.zhihu.com/p/427986306)
+* [表妹问了这些问题：1）函数的意义是什么？2）三角函数的意义是什么？3）为什么研究三角形要用三角函数？ - 周超凡的回答 - 知乎](https://www.zhihu.com/question/38633012/answer/89973180)
+
 ## 操作系统
 * [linux多线程编程——读者优先、写者优先问题](https://www.cnblogs.com/erbing/p/5626768.html)
 * [Linux负载理解](https://blog.csdn.net/weixin_39845407/article/details/86622671)
