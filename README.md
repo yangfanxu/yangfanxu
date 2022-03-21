@@ -84,6 +84,7 @@
 * [B+树](https://zh.wikipedia.org/wiki/B%2B%E6%A0%91)
 * [The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md)
 * [可否完全使用ElasticSearch代替数据库存储？ - 终端研发部的回答 - 知乎](https://www.zhihu.com/question/45510463/answer/2146695119)
+* [XML 与 JSON 在设计目的和应用场景上的区别 - GeTLeft的文章 - 知乎](https://zhuanlan.zhihu.com/p/350406761)
 
 ## 编译
 * [gcc编译工具生成动态库和静态库之一----介绍](https://www.cnblogs.com/fnlingnzb-learner/p/8059251.html)
