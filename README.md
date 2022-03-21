@@ -56,6 +56,7 @@
 * 产品应该符合大多数人习惯，少数人需要适应，易用是最重要的，也可以适当进行差异化设计。
 
 ## 软件工程
+* [软件的「向前兼容」和「向后兼容」如何区分？ - 知乎用户InHwDa的回答 - 知乎](https://www.zhihu.com/question/47239021/answer/104985932)
 * [面向对象编程的弊端是什么？ - invalid s的回答 - 知乎](https://www.zhihu.com/question/20275578/answer/26577791])
 * [visual studio + git + github/gitlab实现工程师笔记](https://www.zhihu.com/question/283455691/answer/1457959083)
 * [中文排版指北](https://github.com/mzlogin/chinese-copywriting-guidelines/blob/Simplified/README.md#%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%88%E6%8E%92%E7%89%88%E6%8C%87%E5%8C%97)
