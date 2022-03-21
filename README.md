@@ -43,8 +43,6 @@
 * [Github规范](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 * [Dillinger在线编辑器](https://dillinger.io/)
 
-<br>
-
 ## Git
 * [Git官方](https://git-scm.com/)
 
