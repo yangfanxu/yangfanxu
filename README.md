@@ -29,7 +29,7 @@
 * [IPIP.NET](https://www.ipip.net/)
 * [开源搜索Elastic](https://www.elastic.co/cn/)
 * [gRPC官网](https://grpc.io/)
-* [opendaylight](https://www.opendaylight.org/)
+* [OpenDaylight](https://www.opendaylight.org/)
 * [BJSON工程工具合集](https://www.bejson.com/)
 * [吾道-PPT工具](https://www.woodo.cn/)
 * [Site24x7](https://www.site24x7.cn/)
