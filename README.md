@@ -67,10 +67,10 @@
 * [全角与半角](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)
 * [Unicode 和 UTF-8 有什么区别？ - 盛世唐朝的回答 - 知乎](https://www.zhihu.com/question/23374078/answer/69732605)
 * [什么是DevOps？ - 小龙飞的回答 - 知乎](https://www.zhihu.com/question/58702398/answer/1755254160)
-* [范式（Paradigm）是什么？ - 吴冕的回答 - 知乎](https://www.zhihu.com/question/21629921/answer/120543387)
 
 ## 数据
 * [范式 - 百度百科](https://baike.baidu.com/item/%E8%8C%83%E5%BC%8F/8438203?fr=aladdin)
+* [范式（Paradigm）是什么？ - 吴冕的回答 - 知乎](https://www.zhihu.com/question/21629921/answer/120543387)
 * [如何理解关系型数据库的常见设计范式？ - 刘慰的回答 - 知乎](https://www.zhihu.com/question/24696366/answer/29189700)
 * [kafka 推荐书籍？ - huxihx的回答 - 知乎](https://www.zhihu.com/question/56172498/answer/148006508)
 * [时间序列数据库(TSDB)初识与选择](https://www.cnblogs.com/dhcn/p/12974931.html)
