@@ -63,6 +63,11 @@
 * [SLA正常运行时间计算器](https://www.site24x7.cn/tools/sla-uptime.html)
 * [可用性SLA还不懂？看完这个故事就懂了 - 阿里云云栖号的文章 - 知乎](https://zhuanlan.zhihu.com/p/147231182)
 * [浅谈SSL/TLS工作原理 - 肖宏辉的文章 - 知乎](https://zhuanlan.zhihu.com/p/36981565)
+* [5W理论](https://wiki.mbalib.com/wiki/5W%E7%90%86%E8%AE%BA)
+* [全角与半角](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)
+* [Unicode 和 UTF-8 有什么区别？ - 盛世唐朝的回答 - 知乎](https://www.zhihu.com/question/23374078/answer/69732605)
+* [什么是DevOps？ - 小龙飞的回答 - 知乎](https://www.zhihu.com/question/58702398/answer/1755254160)
+* [范式（Paradigm）是什么？ - 吴冕的回答 - 知乎](https://www.zhihu.com/question/21629921/answer/120543387)
 
 ## 数据
 * [范式 - 百度百科](https://baike.baidu.com/item/%E8%8C%83%E5%BC%8F/8438203?fr=aladdin)
@@ -216,13 +221,8 @@
 ## 其他
 * [如何成长为一个高情商的人？ - 千锤百炼的K的回答 - 知乎](https://www.zhihu.com/question/319162653/answer/2232433019)
 * [为什么很多人辛劳一生，仍然生活在社会底层？ - 奇迹年的回答 - 知乎](https://www.zhihu.com/question/39997502/answer/2292764568)
+* [恋爱心理学：4种依恋型人格的特点 - 俾斯麦的文章 - 知乎](https://zhuanlan.zhihu.com/p/111702341)
 * [如何从底层杀出？ - 奇迹年的回答 - 知乎](https://www.zhihu.com/question/487990120/answer/2295005139)
-* [5W理论](https://wiki.mbalib.com/wiki/5W%E7%90%86%E8%AE%BA)
-* [全角与半角](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)
-* [Unicode 和 UTF-8 有什么区别？ - 盛世唐朝的回答 - 知乎](
-https://www.zhihu.com/question/23374078/answer/69732605)
-* [什么是DevOps？ - 小龙飞的回答 - 知乎](https://www.zhihu.com/question/58702398/answer/1755254160)
-* [范式（Paradigm）是什么？ - 吴冕的回答 - 知乎](https://www.zhihu.com/question/21629921/answer/120543387)
 * [腾讯六大事业群介绍（下） - Amiee的文章 - 知乎](https://zhuanlan.zhihu.com/p/164882387)
 * [亚洲最大的单体办公楼——腾讯北京总部 - 知乎](https://www.zhihu.com/zvideo/1448398963754373120)
 * [Satin莎庭 ▎商业空间：腾讯-北京新总部 - SATIN莎庭的文章 - 知乎](https://zhuanlan.zhihu.com/p/228201741])
