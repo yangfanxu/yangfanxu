@@ -189,6 +189,7 @@
 * [振幅、周期、频率与相位](https://blog.csdn.net/haodawei123/article/details/87914820)
 * [什么是波分（波分复用器）？ - YunGui的文章 - 知乎](https://zhuanlan.zhihu.com/p/427986306)
 * [表妹问了这些问题：1）函数的意义是什么？2）三角函数的意义是什么？3）为什么研究三角形要用三角函数？ - 周超凡的回答 - 知乎](https://www.zhihu.com/question/38633012/answer/89973180)
+* [函数的本质是什么？研究函数意义何在？ - 方法工厂的回答 - 知乎](https://www.zhihu.com/question/55532369/answer/694586232)
 
 ## 操作系统
 * [linux多线程编程——读者优先、写者优先问题](https://www.cnblogs.com/erbing/p/5626768.html)
