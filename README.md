@@ -59,15 +59,17 @@
 * [visual studio + git + github/gitlab实现工程师笔记](https://www.zhihu.com/question/283455691/answer/1457959083)
 * [中文排版指北](https://github.com/mzlogin/chinese-copywriting-guidelines/blob/Simplified/README.md#%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%88%E6%8E%92%E7%89%88%E6%8C%87%E5%8C%97)
 * [计算机科学与技术都有哪些课程？ - 吃星星的小芒果的回答 - 知乎](https://www.zhihu.com/question/300215881/answer/1097632589)
+* [LBYL与EAFP漫谈](https://www.kawabangga.com/posts/3022)
+* [5W理论](https://wiki.mbalib.com/wiki/5W%E7%90%86%E8%AE%BA)
+* [全角与半角](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)
+* [Unicode 和 UTF-8 有什么区别？ - 盛世唐朝的回答 - 知乎](https://www.zhihu.com/question/23374078/answer/69732605)
+* [什么是DevOps？ - 小龙飞的回答 - 知乎](https://www.zhihu.com/question/58702398/answer/1755254160)
+
 ### 服务质量
 * [一文读懂什么是SLI、SLO、SLA - 知乎用户d64Chv的文章 - 知乎](https://zhuanlan.zhihu.com/p/358149438)
 * [SLA正常运行时间计算器](https://www.site24x7.cn/tools/sla-uptime.html)
 * [可用性SLA还不懂？看完这个故事就懂了 - 阿里云云栖号的文章 - 知乎](https://zhuanlan.zhihu.com/p/147231182)
 * [浅谈SSL/TLS工作原理 - 肖宏辉的文章 - 知乎](https://zhuanlan.zhihu.com/p/36981565)
-* [5W理论](https://wiki.mbalib.com/wiki/5W%E7%90%86%E8%AE%BA)
-* [全角与半角](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)
-* [Unicode 和 UTF-8 有什么区别？ - 盛世唐朝的回答 - 知乎](https://www.zhihu.com/question/23374078/answer/69732605)
-* [什么是DevOps？ - 小龙飞的回答 - 知乎](https://www.zhihu.com/question/58702398/answer/1755254160)
 
 ## 数据
 * [范式 - 百度百科](https://baike.baidu.com/item/%E8%8C%83%E5%BC%8F/8438203?fr=aladdin)
@@ -141,7 +143,6 @@
 * [Python官网](https://www.python.org/)
 * [写出简洁的Python代码: 使用Exceptions（转）](https://www.cnblogs.com/ajianbeyourself/p/6929684.html)
 * [Code like a Pythonista: Idiomatic Python](https://blog.csdn.net/huangkangying/article/details/47700819)
-* [LBYL与EAFP漫谈](https://www.kawabangga.com/posts/3022)
 * [为什么有些人宁愿花费很多时间去自己手工配置Python环境, 也不用Anaconda? - 沙也博士的回答 - 知乎](https://www.zhihu.com/question/404402864/answer/1692589822)
 * [python相对包导入报“Attempted relative import in non-package”错误](https://www.cnblogs.com/jiaxin359/p/7580375.html)
 * [pylint和flake8有什么区别，各适用于什么场景？ - 亦念的回答 - 知乎](https://www.zhihu.com/question/378930645/answer/1077789222)
