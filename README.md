@@ -240,8 +240,6 @@
 * [真正懂羽毛球的人，都买了什么样的羽毛球和羽毛球拍？ - Wind的回答 - 知乎](https://www.zhihu.com/question/475060379/answer/2345115141)
 * [背书这个词怎样流行起来的？ - Pete白世达的回答 - 知乎](https://www.zhihu.com/question/20930001/answer/924635845)
 
-<br>
-
 ## 名词
 * MVC：Model View Controller https://zhuanlan.zhihu.com/p/35680070
 * ORM：Object Relation Mapping
