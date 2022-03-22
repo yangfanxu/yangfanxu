@@ -194,6 +194,11 @@
 * [表妹问了这些问题：1）函数的意义是什么？2）三角函数的意义是什么？3）为什么研究三角形要用三角函数？ - 周超凡的回答 - 知乎](https://www.zhihu.com/question/38633012/answer/89973180)
 * [函数的本质是什么？研究函数意义何在？ - 方法工厂的回答 - 知乎](https://www.zhihu.com/question/55532369/answer/694586232)
 
+## 安全
+* [LDAP 介绍 - HoneyMoose的文章 - 知乎](https://zhuanlan.zhihu.com/p/260518807)
+* [LDAP 协议入门（轻量目录访问协议） - Authing 身份云的文章 - 知乎](https://zhuanlan.zhihu.com/p/147768058)
+* [LDAP 基础知识 - 空悟孙的文章 - 知乎](https://zhuanlan.zhihu.com/p/74512921)
+
 ## 操作系统
 * [linux查看内存，cpu命令， 磁盘，磁盘IO，网络IO](https://www.cnblogs.com/lzghyh/p/13035675.html)
 * [内存与io，磁盘io ,网络io](https://blog.csdn.net/diydiydiyddiiyy/article/details/107578383)
