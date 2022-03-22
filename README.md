@@ -360,6 +360,7 @@ CPU密集型，内存密集型，网络密集型，存储密集型
 清晰定义，输出文档，评审归档  
 
 > tradeoff 权衡 折衷  
+设计哲学（Design philosophy）
 drill 演练 演习  
 pollute 污染、波及、传播、蔓延、恶化、扩散  
 victim 受害者  
