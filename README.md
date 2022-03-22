@@ -17,6 +17,7 @@
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [GitHub](https://github.com/)
 * [Linux Documentation](https://www.die.net/)
+* [JetBrains](https://www.jetbrains.com/)
 * [甲骨文中国](https://www.oracle.com/cn/index.html)
 * [Apache](https://www.apache.org/)
 * [Redis](https://redis.io/)
