@@ -191,6 +191,7 @@
 * [【第二期】如何通过网络遥测（Network Telemetry）技术实现精细化网络运维？](https://www.ruijie.com.cn/fa/xw-hlw/61072/)
 
 ## 通信工程
+* [通信原理怎么学？ - 小枣君的回答 - 知乎](https://www.zhihu.com/question/316165364/answer/628730449)
 * [数字信号和模拟信号的区别是什么？ - 小泽诶的回答 - 知乎](https://www.zhihu.com/question/373000106/answer/1078755173)
 * [调制解调 - 百度百科](https://baike.baidu.com/item/%E8%B0%83%E5%88%B6%E8%A7%A3%E8%B0%83/472156?fr=aladdin)
 * [振幅、周期、频率与相位](https://blog.csdn.net/haodawei123/article/details/87914820)
