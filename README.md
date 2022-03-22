@@ -188,6 +188,7 @@
 * [静态路由与默认路由（ 原理+区别+实例）](https://blog.51cto.com/zhaoyuqiang/1177924)
 * [BGP路由协议详解(完整篇)](https://www.cnblogs.com/sddai/p/5988094.html)
 * [BIRD - Internet Route Daemon](https://bird.network.cz/)
+* [【第二期】如何通过网络遥测（Network Telemetry）技术实现精细化网络运维？](https://www.ruijie.com.cn/fa/xw-hlw/61072/)
 
 ## 通信工程
 * [数字信号和模拟信号的区别是什么？ - 小泽诶的回答 - 知乎](https://www.zhihu.com/question/373000106/answer/1078755173)
@@ -198,6 +199,7 @@
 * [函数的本质是什么？研究函数意义何在？ - 方法工厂的回答 - 知乎](https://www.zhihu.com/question/55532369/answer/694586232)
 
 ## 安全
+* [浅谈SSL/TLS工作原理 - 肖宏辉的文章 - 知乎](https://zhuanlan.zhihu.com/p/36981565)
 * [LDAP 介绍 - HoneyMoose的文章 - 知乎](https://zhuanlan.zhihu.com/p/260518807)
 * [LDAP 协议入门（轻量目录访问协议） - Authing 身份云的文章 - 知乎](https://zhuanlan.zhihu.com/p/147768058)
 * [LDAP 基础知识 - 空悟孙的文章 - 知乎](https://zhuanlan.zhihu.com/p/74512921)
@@ -219,7 +221,6 @@
 * [nsswitch.conf - Name Service Switch configuration file](https://linux.die.net/man/5/nsswitch.conf)
 * [Linux系统下的/etc/nsswitch.conf文件](https://blog.csdn.net/waqwn/article/details/51687719)
 * [mac iterm2 sz rz 失效问题解决](https://blog.csdn.net/qq_36752632/article/details/106529022)
-* [【第二期】如何通过网络遥测（Network Telemetry）技术实现精细化网络运维？](https://www.ruijie.com.cn/fa/xw-hlw/61072/)
 
 ## 机器学习
 * [LightGBM’s documentation](https://lightgbm.readthedocs.io/en/latest/#)
@@ -241,6 +242,8 @@
 * cron - /var/spool/cron/中可查看任务配置，/var/spool/mail/可查看任务执行日志
 
 ## 其他
+* [你有哪些屡试不爽的经典话术？ - 李文凯的文章 - 知乎](https://zhuanlan.zhihu.com/p/475654807)
+* [有哪些高情商的聊天技巧？ - 林有声的回答 - 知乎](https://www.zhihu.com/question/327635458/answer/1836408083)
 * [如何成长为一个高情商的人？ - 千锤百炼的K的回答 - 知乎](https://www.zhihu.com/question/319162653/answer/2232433019)
 * [为什么很多人辛劳一生，仍然生活在社会底层？ - 奇迹年的回答 - 知乎](https://www.zhihu.com/question/39997502/answer/2292764568)
 * [恋爱心理学：4种依恋型人格的特点 - 俾斯麦的文章 - 知乎](https://zhuanlan.zhihu.com/p/111702341)
