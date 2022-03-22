@@ -195,6 +195,8 @@
 * [函数的本质是什么？研究函数意义何在？ - 方法工厂的回答 - 知乎](https://www.zhihu.com/question/55532369/answer/694586232)
 
 ## 操作系统
+* [linux查看内存，cpu命令， 磁盘，磁盘IO，网络IO](https://www.cnblogs.com/lzghyh/p/13035675.html)
+* [内存与io，磁盘io ,网络io](https://blog.csdn.net/diydiydiyddiiyy/article/details/107578383)
 * [linux多线程编程——读者优先、写者优先问题](https://www.cnblogs.com/erbing/p/5626768.html)
 * [Linux负载理解](https://blog.csdn.net/weixin_39845407/article/details/86622671)
 * [https://www.cnblogs.com/cobbliu/articles/8480922.html](https://www.cnblogs.com/cobbliu/articles/8480922.html)
