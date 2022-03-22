@@ -36,6 +36,7 @@
 * [吾道-PPT工具](https://www.woodo.cn/)
 * [Site24x7](https://www.site24x7.cn/)
 * [Hugo中文文档](https://www.gohugo.org/)
+* [JumpServer](https://www.jumpserver.org/)
 
 ## Markdown
 * [Markdown中文网](http://markdown.p2hp.com/index.html)
