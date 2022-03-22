@@ -65,6 +65,7 @@
 * [全角与半角](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)
 * [Unicode 和 UTF-8 有什么区别？ - 盛世唐朝的回答 - 知乎](https://www.zhihu.com/question/23374078/answer/69732605)
 * [什么是DevOps？ - 小龙飞的回答 - 知乎](https://www.zhihu.com/question/58702398/answer/1755254160)
+* [apache （Apache软件基金会）](https://baike.baidu.com/item/apache/8512995?fr=aladdin)
 * [BS架构与CS架构的区别(最详细)](https://blog.csdn.net/qq_34462436/article/details/102155492)
 
 ### 服务质量
