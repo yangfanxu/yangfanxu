@@ -126,6 +126,7 @@
 * [不同版本GCC对C++特性支持情况](https://blog.csdn.net/red98/article/details/117767913)
 
 ## JAVA
+* [目前学习Java下载jdk最好下载哪个版本？ - 终端研发部的回答 - 知乎](https://www.zhihu.com/question/428915523/answer/2220868571)
 * [JDK 17 Documentation](https://docs.oracle.com/en/java/javase/17/index.html)
 * [知乎-JAVA书籍推荐](https://zhuanlan.zhihu.com/p/343905988)
 * [Java Platform Standard Edition 8 Documentation](https://docs.oracle.com/javase/8/docs/)
