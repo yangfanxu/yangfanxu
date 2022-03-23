@@ -204,6 +204,9 @@
 * [【第二期】如何通过网络遥测（Network Telemetry）技术实现精细化网络运维？](https://www.ruijie.com.cn/fa/xw-hlw/61072/)
 
 ## 通信工程
+* [波长（物理学名词）_百度百科](https://baike.baidu.com/item/%E6%B3%A2%E9%95%BF/829184?fr=aladdin)
+* [DWDM技术 - 百度百科](https://baike.baidu.com/item/DWDM%E6%8A%80%E6%9C%AF/22293458?fr=aladdin)
+* [你真的了解圆周运动吗？为你解析圆周运动和波的深层联系](https://www.jianshu.com/p/154bf3185903)
 * [什么是波分（波分复用器）？ - YunGui的文章 - 知乎](https://zhuanlan.zhihu.com/p/427986306)
 * [通信原理怎么学？ - 小枣君的回答 - 知乎](https://www.zhihu.com/question/316165364/answer/628730449)
 * [数字信号和模拟信号的区别是什么？ - 小泽诶的回答 - 知乎](https://www.zhihu.com/question/373000106/answer/1078755173)
