@@ -146,6 +146,7 @@
 * [Go语言中文网](https://studygolang.com/)
 * [Go 语言设计与实现](https://draveness.me/golang/)
 * [Go 包管理详解](https://blog.csdn.net/weixin_43700106/article/details/118279983)
+* [Standard Go Project Layout](https://github.com/golang-standards/project-layout/blob/master/README_zh.md#standard-go-project-layout)
 
 ## Python
 * [Python官网](https://www.python.org/)
@@ -160,6 +161,12 @@
 * Wheel与Coverage
 
 ## 网络工程
+* [BOM （物料清单）](https://baike.baidu.com/item/BOM/9444823?fr=aladdin)
+* [OpenDaylight现状和发展前景？ - 软件定义网络的回答 - 知乎](https://www.zhihu.com/question/333098125/answer/736340308)
+* [从零开始学OpenDaylight之六：YANG](https://www.cnblogs.com/FrankZhou2017/p/7258264.html)
+* [YANG，NETCONF，RESTCONF，XML之间的关系](https://blog.csdn.net/karlin999/article/details/79195433)
+* [四、OpenDaylight应用基础开发（MD-SAL、yang语言、RPC）](https://blog.csdn.net/u_hcy2000/article/details/120749043?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_title~default-1.pc_relevant_antiscanv2&spm=1001.2101.3001.4242.2&utm_relevant_index=4)
+* [（交换机）NETCONF\YANG\XML的关系](https://blog.csdn.net/a961634066/article/details/98494764)
 * [数据中心网络架构浅谈（四） - 肖宏辉的文章 - 知乎](https://zhuanlan.zhihu.com/p/64445886)
 * [SDN、OpenFlow、OpenDaylight，到底是什么关系？ - 小枣君的文章 - 知乎](https://zhuanlan.zhihu.com/p/127024789)
 * [浅谈中国电信出口网络的链路情况（什么是 ChinaNet,CN2,GT,GIA）](https://www.oldking.net/751.html)
