@@ -204,6 +204,7 @@
 * [【第二期】如何通过网络遥测（Network Telemetry）技术实现精细化网络运维？](https://www.ruijie.com.cn/fa/xw-hlw/61072/)
 
 ## 通信工程
+* [什么是开放光网络系统？](https://mp.weixin.qq.com/s?__biz=MzIwMTMzMDU5Nw==&mid=2456807300&idx=1&sn=6ee291c54eac12dcb8fcad8199ce7736&chksm=8174dd4eb6035458cba6f4bbe5387e9abd091c6141cf7997e492142794cfd6e30d25aa072ec3&token=1271429921&lang=zh_CN#rd)
 * [波长（物理学名词）_百度百科](https://baike.baidu.com/item/%E6%B3%A2%E9%95%BF/829184?fr=aladdin)
 * [DWDM技术 - 百度百科](https://baike.baidu.com/item/DWDM%E6%8A%80%E6%9C%AF/22293458?fr=aladdin)
 * [你真的了解圆周运动吗？为你解析圆周运动和波的深层联系](https://www.jianshu.com/p/154bf3185903)
