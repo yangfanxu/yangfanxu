@@ -204,6 +204,10 @@
 * [【第二期】如何通过网络遥测（Network Telemetry）技术实现精细化网络运维？](https://www.ruijie.com.cn/fa/xw-hlw/61072/)
 
 ## 通信工程
+* [一文看懂电磁波的波段命名---C波段、L波段、X波段、S波段、Ku波段、Ka波段……究竟是怎么来的？ ](https://www.sohu.com/a/421331995_472928)
+* [WDM波中的C波段、L波段的区别](http://www.elecfans.com/tongxin/202007021238162.html)
+* [CWDM与DWDM有什么区别？](https://jingyan.baidu.com/article/d621e8da5a84492865913f28.html)
+* [CWDM_百度百科](https://baike.baidu.com/item/CWDM/6119207?fr=aladdin)
 * [波段（无线电技术术语）_百度百科](https://baike.baidu.com/item/%E6%B3%A2%E6%AE%B5/2554375?fr=aladdin)
 * [什么是开放光网络系统？](https://mp.weixin.qq.com/s?__biz=MzIwMTMzMDU5Nw==&mid=2456807300&idx=1&sn=6ee291c54eac12dcb8fcad8199ce7736&chksm=8174dd4eb6035458cba6f4bbe5387e9abd091c6141cf7997e492142794cfd6e30d25aa072ec3&token=1271429921&lang=zh_CN#rd)
 * [波长（物理学名词）_百度百科](https://baike.baidu.com/item/%E6%B3%A2%E9%95%BF/829184?fr=aladdin)
