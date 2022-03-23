@@ -204,6 +204,9 @@
 * [【第二期】如何通过网络遥测（Network Telemetry）技术实现精细化网络运维？](https://www.ruijie.com.cn/fa/xw-hlw/61072/)
 
 ## 通信工程
+* [几张图让你搞懂波分复用 (WDM)_波长](http://news.sohu.com/a/503428787_121210832)
+* [一文带你读懂什么是波分复用技术 - 德尚的文章 - 知乎](https://zhuanlan.zhihu.com/p/371607857)
+* [波分复用_百度百科](https://baike.baidu.com/item/%E6%B3%A2%E5%88%86%E5%A4%8D%E7%94%A8/2990709?fr=aladdin)
 * [一文看懂电磁波的波段命名---C波段、L波段、X波段、S波段、Ku波段、Ka波段……究竟是怎么来的？ ](https://www.sohu.com/a/421331995_472928)
 * [WDM波中的C波段、L波段的区别](http://www.elecfans.com/tongxin/202007021238162.html)
 * [CWDM与DWDM有什么区别？](https://jingyan.baidu.com/article/d621e8da5a84492865913f28.html)
